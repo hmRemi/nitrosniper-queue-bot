@@ -5,5 +5,4 @@ This bot allows you to sell credits to users, and when they redeem these credits
 The user at the front of the queue gets the opportunity to snipe a Nitro code.
 
 This queue bot is a derivative of the original version developed for "Tsukuyomi Sniper". 
-Regrettably, the original bot is no longer functional due to the shutdown of "Tsukuyomi Sniper". 
-Please be aware that the Discord bot token specified in the configuration file is no longer valid.
+Regrettably, the original bot is no longer functional due to the shutdown of "Tsukuyomi Sniper".
