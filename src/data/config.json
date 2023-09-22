@@ -1,0 +1,49 @@
+{
+    "bot": {
+        "token": "",
+        "owners": ["351763589746393091", "1034531618951528488"]
+    },
+    "guild": {
+        "id": "",
+        "embedColour": "0x2F3136",
+        "queueEmbed": {
+            "channelId": "1043979512544764145",
+            "messageId": "1044643878214565908",
+            "progressEmoji": "<a:progress:1044150035039928412>",
+            "waitingEmoji": "<a:waiting:1044150033840341002>"
+        },
+        "publicSnipes": {
+            "basicNitroEmoji": "<a:classic:1044659916830429256>",
+            "classicNitroEmoji": "<a:classic:1044659916830429256>",
+            "boostNitroEmoji": "<a:nitroboost:1044659914783588394>",
+            "roleName": "Claim Ping",
+            "reactEmoji": "🎉",
+            "channelId": "1043977868721528862",
+            "mentionUser": true,
+            "messageStyle": 0
+        },
+        "logChannel": "1043977968143306822"
+    },
+    "sniper": {
+        "pathToSniper": "/root/nitrosniper",
+        "emptyQueueClaimToken": "",
+        "webhooks": {
+            "successfulChannelId": "1043977968143306822",
+            "missedChannelId": "1043977968143306822"
+        }
+    },
+    "stats": {
+        "ids": ["351763589746393091"],
+        "public": {
+            "channelId": "1045809613464940565",
+            "messageId": "1045811658850836500"
+        }
+    },
+    "misc": {
+        "rotateQueue": true,
+        "automaticallyRefundInvalidAccount": true
+    },
+    "shop": {
+        "keyLength": 10
+    }
+}

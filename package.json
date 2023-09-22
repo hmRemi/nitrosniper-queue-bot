@@ -1,0 +1,20 @@
+{
+  "name": "queue-bot-tsukuyomi-sniper",
+  "version": "1.0.0",
+  "description": "Queue bot for Tsukuyomi's Nitro Claimer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "sniper"
+  ],
+  "author": "lol & snek & ziue",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "node-ssh": "^13.0.0",
+    "request": "^2.88.2"
+  }
+}
